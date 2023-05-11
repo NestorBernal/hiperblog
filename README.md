@@ -13,6 +13,8 @@ Un blog de aprendizaje en el curso de Git y Github de platzi
 - Todo con teoria y practica
 - Creado por Nestor Bernal
 
+* estamos aprendiendo un poco de todo
+
 - Incluye ejemplos en windows, Linux y Mac
 
 Y como un amable recordatorio: **Este readme esde aprendizaje**Disenado para aprender
