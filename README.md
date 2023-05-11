@@ -8,12 +8,18 @@ Un blog de aprendizaje en el curso de Git y Github de platzi
 ## En este curso vemos de todo:
 
 - Todos los comandos de Git
+
 - El flujo de tra bajo en Github
+
 - Las buenas practicas
+
 - Todo con teoria y practica
+
 - Creado por Nestor Bernal
 
-* estamos aprendiendo un poco de todo
+- Disponible para todas las edades
+
+- estamos aprendiendo un poco de todo
 
 - Incluye ejemplos en windows, Linux y Mac
 
